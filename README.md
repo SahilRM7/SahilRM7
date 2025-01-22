@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm SahilRM7
 
-<!--
-**SahilRM7/SahilRM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Engineering Student** with a passion for developing impactful solutions.  
+💻 Proficient in **Django** and building full-stack applications.  
+🚀 Constantly learning and exploring new technologies in the IT field.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+
+- **[carz](#)**  
+  A Django-based car rental system with user authentication, dynamic pricing, and booking features.
+
+- **[Heartbitz](#)**  
+  A Django web app for heart disease prediction and e-healthcare, using machine learning algorithms like KNN and Random Forest.
+
+- **[Spider_travel](#)**  
+  A MERN stack application for travel planning with real-time map integration and user reviews.
+
+---
+
+### Skills
+
+- **Frameworks:** Django  
+- **Programming Languages:** Python, JavaScript, HTML, CSS  
+- **Databases:** MongoDB 
+- **Version Control:** Git & GitHub  
+- **Others:** RESTful APIs, Machine Learning Basics, Web Deployment  
+
+---
+
+🌟 Let's connect and collaborate! I'm always open to learning and contributing to exciting projects.
