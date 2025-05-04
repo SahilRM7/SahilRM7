@@ -8,13 +8,13 @@
 
 ### My Projects
 
-- **[carz](#)**  
+- **[Carz](https://github.com/SahilRM7/carz)**  
   A Django-based car rental system with user authentication, dynamic pricing, and booking features.
 
-- **[Heartbitz](#)**  
+- **[Heartbitz](https://github.com/SahilRM7/Heartbitz)**  
   A Django web app for heart disease prediction and e-healthcare, using machine learning algorithms like KNN and Random Forest.
 
-- **[Spider_travel](#)**  
+- **[Spider_travel](https://github.com/SahilRM7/Spider_travel)**  
   A MERN stack application for travel planning with real-time map integration and user reviews.
 
 ---
